@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\JiPP_s2\WpfApp1\obj\Release\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\JiPP_s2\WpfApp1\obj\Release\netcoreapp3.1\MainWindow.g.cs
+C:\Users\user\source\repos\JiPP_s2\WpfApp1\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\user\source\repos\JiPP_s2\WpfApp1\obj\Release\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\Users\user\source\repos\JiPP_s2\WpfApp1\obj\Release\netcoreapp3.1\WpfApp1_MarkupCompile.lref

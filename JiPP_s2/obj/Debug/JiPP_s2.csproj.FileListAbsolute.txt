@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\JiPP_s2\JiPP_s2\bin\Debug\JiPP_s2.exe.config
+C:\Users\user\source\repos\JiPP_s2\JiPP_s2\bin\Debug\JiPP_s2.exe
+C:\Users\user\source\repos\JiPP_s2\JiPP_s2\bin\Debug\JiPP_s2.pdb
+C:\Users\user\source\repos\JiPP_s2\JiPP_s2\obj\Debug\JiPP_s2.csprojAssemblyReference.cache
+C:\Users\user\source\repos\JiPP_s2\JiPP_s2\obj\Debug\JiPP_s2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\JiPP_s2\JiPP_s2\obj\Debug\JiPP_s2.exe
+C:\Users\user\source\repos\JiPP_s2\JiPP_s2\obj\Debug\JiPP_s2.pdb

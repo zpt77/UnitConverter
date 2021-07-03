@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\JiPP_s2\UnitConverter2\bin\Release\netcoreapp3.1\UnitConverter2.exe
+C:\Users\user\source\repos\JiPP_s2\UnitConverter2\bin\Release\netcoreapp3.1\UnitConverter2.deps.json
+C:\Users\user\source\repos\JiPP_s2\UnitConverter2\bin\Release\netcoreapp3.1\UnitConverter2.runtimeconfig.json
+C:\Users\user\source\repos\JiPP_s2\UnitConverter2\bin\Release\netcoreapp3.1\UnitConverter2.runtimeconfig.dev.json
+C:\Users\user\source\repos\JiPP_s2\UnitConverter2\bin\Release\netcoreapp3.1\UnitConverter2.dll
+C:\Users\user\source\repos\JiPP_s2\UnitConverter2\bin\Release\netcoreapp3.1\UnitConverter2.pdb
+C:\Users\user\source\repos\JiPP_s2\UnitConverter2\obj\Release\netcoreapp3.1\UnitConverter2.csprojAssemblyReference.cache
+C:\Users\user\source\repos\JiPP_s2\UnitConverter2\obj\Release\netcoreapp3.1\UnitConverter2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\JiPP_s2\UnitConverter2\obj\Release\netcoreapp3.1\UnitConverter2.AssemblyInfo.cs
+C:\Users\user\source\repos\JiPP_s2\UnitConverter2\obj\Release\netcoreapp3.1\UnitConverter2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\JiPP_s2\UnitConverter2\obj\Release\netcoreapp3.1\UnitConverter2.dll
+C:\Users\user\source\repos\JiPP_s2\UnitConverter2\obj\Release\netcoreapp3.1\UnitConverter2.pdb
+C:\Users\user\source\repos\JiPP_s2\UnitConverter2\obj\Release\netcoreapp3.1\UnitConverter2.genruntimeconfig.cache
+C:\Users\user\source\repos\JiPP_s2\UnitConverter2\bin\Release\netcoreapp3.1\UnitConverter.logic.dll
+C:\Users\user\source\repos\JiPP_s2\UnitConverter2\bin\Release\netcoreapp3.1\UnitConverter.logic.pdb
+C:\Users\user\source\repos\JiPP_s2\UnitConverter2\obj\Release\netcoreapp3.1\UnitConverter2.csproj.CopyComplete

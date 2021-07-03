@@ -1,0 +1,21 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UnitConverter.Desktop"
+        xmlns:Model="clr-namespace:UnitConverter.logic.Model;assembly=UnitConverter.logic" x:Class="UnitConverter.Desktop.StatWindow"
+        mc:Ignorable="d"
+        Title="StatWindow" Height="500" Width="800">
+    <Grid Margin="0,0,0,38">
+        <DataGrid x:Name="Table" Height="450" Width="600" Margin="10,10,190,-26">
+
+            <DataGrid.DataContext>
+                <Model:JippDBContext/>
+            </DataGrid.DataContext>
+        </DataGrid>
+        <Label Content="Wybierz miarę konwersji" HorizontalAlignment="Left" Margin="637,16,0,0" VerticalAlignment="Top"/>
+        <Button Content="Filtruj" HorizontalAlignment="Left" Margin="637,89,0,0" VerticalAlignment="Top" Width="104" Click="Button_Click"/>
+        <ComboBox x:Name="FilterComboBox" HorizontalAlignment="Left" Margin="637,47,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBox_SelectionChanged"/>
+    </Grid>
+</Window>

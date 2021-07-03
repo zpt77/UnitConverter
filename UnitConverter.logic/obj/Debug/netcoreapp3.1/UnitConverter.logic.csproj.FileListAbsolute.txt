@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\JiPP_s2\UnitConverter.logic\bin\Debug\netcoreapp3.1\UnitConverter.logic.deps.json
+C:\Users\user\source\repos\JiPP_s2\UnitConverter.logic\bin\Debug\netcoreapp3.1\UnitConverter.logic.dll
+C:\Users\user\source\repos\JiPP_s2\UnitConverter.logic\bin\Debug\netcoreapp3.1\UnitConverter.logic.pdb
+C:\Users\user\source\repos\JiPP_s2\UnitConverter.logic\obj\Debug\netcoreapp3.1\UnitConverter.logic.csprojAssemblyReference.cache
+C:\Users\user\source\repos\JiPP_s2\UnitConverter.logic\obj\Debug\netcoreapp3.1\UnitConverter.logic.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\JiPP_s2\UnitConverter.logic\obj\Debug\netcoreapp3.1\UnitConverter.logic.AssemblyInfo.cs
+C:\Users\user\source\repos\JiPP_s2\UnitConverter.logic\obj\Debug\netcoreapp3.1\UnitConverter.logic.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\JiPP_s2\UnitConverter.logic\obj\Debug\netcoreapp3.1\UnitConverter.logic.dll
+C:\Users\user\source\repos\JiPP_s2\UnitConverter.logic\obj\Debug\netcoreapp3.1\UnitConverter.logic.pdb
+C:\Users\user\source\repos\JiPP_s2\UnitConverter.logic\bin\Debug\netcoreapp3.1\UnitConverter.logic.runtimeconfig.json
+C:\Users\user\source\repos\JiPP_s2\UnitConverter.logic\bin\Debug\netcoreapp3.1\UnitConverter.logic.runtimeconfig.dev.json
+C:\Users\user\source\repos\JiPP_s2\UnitConverter.logic\obj\Debug\netcoreapp3.1\UnitConverter.logic.genruntimeconfig.cache
